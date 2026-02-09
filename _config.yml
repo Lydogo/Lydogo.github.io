@@ -15,6 +15,9 @@ title: Lydogo's blog
 # Your name to show in the footer
 author: LI Yiduo
 
+url: "https://lydogo.github.io"
+baseurl: ""
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -24,7 +27,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -50,7 +53,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "leeydogo@gamil.com"
+  email: "leeydogo@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: https://github.com/Lydogo
 
@@ -98,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "lydogo.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -256,7 +259,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
